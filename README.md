@@ -11,7 +11,7 @@
 	- VueJS
 - ✍ Currently working on:
 	- [**Strix Cloud**](https://strixcloud.com.br "Strix Cloud") - A new innovative bukkit plugins shop.
-	**Soulfire** - A personal project for play an Table RPG with my friends.
+	- **Soulfire** A personal project for play an Table RPG with my friends.
 - Interested in all thigs that contains: IA, future and programming.
 #### My skills contains:
 
