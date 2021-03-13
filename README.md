@@ -1,5 +1,5 @@
 # Hi there ✌ I'm Bugado,
-##### A Back-end developer 🌐. I like to discover new techologis and practice.
+##### A Back-end developer 🌐. I like to discover new technologies and practice.
 <p align="center">
 <img src= "https://github-readme-stats.vercel.app/api?username=bug4do&show_icons=true">
 </p>
