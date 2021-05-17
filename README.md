@@ -9,6 +9,8 @@
 	- MongoDB
 	- CSS
 	- VueJS
+	- Nuxt
+	- AdonisJS
 - ✍ Currently working on:
 	- [**Strix Cloud**](https://strixcloud.com.br "Strix Cloud") - A new innovative bukkit plugins shop.
 	- **Soulfire** A personal project for play an Table RPG with my friends.
