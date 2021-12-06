@@ -9,6 +9,7 @@
 	- MongoDB
 	- Docker
 	- CI & CD
+	- UI Design
 - ✍ Currently working on:
 	- **Ydeal Tecnologia**.
 #### My skills contains:
