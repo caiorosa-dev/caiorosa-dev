@@ -1,5 +1,5 @@
-# Hi there ✌ I'm Bugado,
-##### A Back-end developer 🌐. I like to discover new technologies and practice.
+# Hi there ✌ I'm Caio,
+##### A Full-Stack developer 🌐. I like to discover new technologies and practice.
 <p align="center">
 <img src= "https://github-readme-stats.vercel.app/api?username=bug4do&show_icons=true">
 </p>
@@ -7,16 +7,12 @@
 - 🌍 I'm from Brazil.
 - 🎓I' m currently learning:
 	- MongoDB
-	- CSS
-	- VueJS
-	- Nuxt
-	- AdonisJS
+	- Docker
+	- CI & CD
 - ✍ Currently working on:
-	- [**Strix Cloud**](https://strixcloud.com.br "Strix Cloud") - A new innovative bukkit plugins shop.
-	- **Soulfire** A personal project for play an Table RPG with my friends.
-- Interested in all thigs that contains: IA, future and programming.
+	- **Ydeal Tecnologia**.
 #### My skills contains:
 
 <p align="center">
-	<img src="https://github.com/bug4do/bug4do/raw/main/java.png" height=60>	<img src="https://github.com/bug4do/bug4do/raw/main/express.png" width=70>	<img src="https://github.com/bug4do/bug4do/raw/main/nodejs.png" height=50>	<img src="https://github.com/bug4do/bug4do/raw/main/mysql.png" height=70>	<img src="https://github.com/bug4do/bug4do/raw/main/git.png" width=70>
+	<img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" height=60>	<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width=70>	<img src="https://logospng.org/download/node-js/logo-node-js-1024.png" height=50>	<img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" height=70>	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width=70>
 </p>
