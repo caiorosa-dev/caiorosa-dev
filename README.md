@@ -11,6 +11,7 @@
 	- CI & CD
 	- UI Design
 - ✍ Currently working on:
+	- **Strix Plugins**,
 	- **Ydeal Tecnologia**.
 #### My skills contains:
 
