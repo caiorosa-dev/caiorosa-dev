@@ -1,7 +1,7 @@
 # Hi there ✌ I'm Caio,
 ##### A Full-Stack developer 🌐. I like to discover new technologies and practice.
 <p align="center">
-<img src= "https://github-readme-stats.vercel.app/api?username=bug4do&show_icons=true">
+<img src= "https://github-readme-stats.vercel.app/api?username=caiorosa-dev&show_icons=true">
 </p>
 
 - 🌍 I'm from Brazil.
