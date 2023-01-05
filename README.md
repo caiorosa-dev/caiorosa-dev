@@ -1,19 +1,31 @@
 # Hi there ✌ I'm Caio,
-##### A Full-Stack developer 🌐. I like to discover new technologies and practice.
 <p align="center">
-<img src= "https://github-readme-stats.vercel.app/api?username=caiorosa-dev&show_icons=true">
+<img src= "https://github-readme-stats.vercel.app/api?username=caiorosa-dev">
+[![wakatime](https://wakatime.com/badge/user/cb841cc0-767d-42ca-9bbe-faff487068cd.svg)](https://wakatime.com/@cb841cc0-767d-42ca-9bbe-faff487068cd)
 </p>
 
-- 🌍 I'm from Brazil.
-- 🎓I' m currently learning:
-	- MongoDB
-	- Docker
-	- CI & CD
-	- UI Design
-- ✍ Currently working on:
-	- **Strix Plugins**.
-#### My skills contains:
+## My Projects
+|💻 Technology|Project|
+| ------------ | ------------ |
+|![AdonisJS](https://img.shields.io/static/v1?label=&message=Adonis&color=5A45FF&logo=adonisjs&logoColor=FFFFFF)|[![to-do-adonis](https://img.shields.io/static/v1?label=&message=to-do-adonis&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/caiorosa-dev/to-do-adonis)|
+|![Express](https://img.shields.io/static/v1?label=&message=Express&color=2b2b2b&logo=express&logoColor=FFFFFF)|[![firstnodeproject](https://img.shields.io/static/v1?label=&message=firstnodeproject&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/caiorosa-dev/firstnodeproject)|
+|![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=2970e3&logo=typescript&logoColor=FFFFFF)|[![typescript-music-bot](https://img.shields.io/static/v1?label=&message=typescript-music-bot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/caiorosa-dev/typescript-music-bot) [![project-template](https://img.shields.io/static/v1?label=&message=project-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/caiorosa-dev/project-template)|
+|![VueJS](https://img.shields.io/static/v1?label=&message=Vue / Nuxt&color=4FC08D&logo=vue.js&logoColor=FFFFFF)|[![to-do-nuxt](https://img.shields.io/static/v1?label=&message=to-do-nuxt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/caiorosa-dev/to-do-nuxt) [![cataline-faq-vuex](https://img.shields.io/static/v1?label=&message=cataline-faq-vuex&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/caiorosa-dev/cataline-faq-vuex) [![vue-pokedex](https://img.shields.io/static/v1?label=&message=vue-pokedex&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/caiorosa-dev/vue-pokedex)|
+|![ReactJS](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)|Nothing for now...|
+|![NextJS](https://img.shields.io/static/v1?label=&message=NextJS&color=000000&logo=next.js&logoColor=FFFFFF)|Nothing for now...|
+
+## About Me
+
+```javascript
+const caioRosa = {
+	getCurrentJob() {
+		return null;
+	},
+	languages: [Java, Javascript, Typescript, HTML, CSS],
+	tools: [React, Vue, Next, Nuxt, TailwindCSS, Express, AdonisJS, MySQL, Docker]
+};
+```
 
 <p align="center">
-	<img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" height=60>	<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width=70>	<img src="https://logospng.org/download/node-js/logo-node-js-1024.png" height=50>	<img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" height=70>	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width=70>
+[![Social](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&logo=linkedin&logoColor=FFFFFF&labelColor=000605)](https://www.linkedin.com/in/caio-rosa-552757221/) ![Social](https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF&labelColor=000605) **Bugado#3333**
 </p>
