@@ -20,6 +20,7 @@ const caioRosa = {
 		return null;
 	},
 	languages: [Java, Javascript, Typescript, HTML, CSS],
+	architectures: [Singleton, AtomicDesign],
 	tools: [React, Vue, Next, Nuxt, TailwindCSS, Express, AdonisJS, MySQL, Docker]
 };
 ```
