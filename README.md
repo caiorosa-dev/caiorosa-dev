@@ -24,4 +24,4 @@ const caioRosa = {
 	tools: [React, Vue, Next, Nuxt, TailwindCSS, Express, AdonisJS, MySQL, Docker]
 };
 ```
-![Social](https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF&labelColor=000605) Bugado#3333
+![Social](https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF&labelColor=000605) Caio Rosa#9999
