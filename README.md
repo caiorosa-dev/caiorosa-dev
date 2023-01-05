@@ -1,4 +1,4 @@
-# Hi there ✌ I'm Caio! [![wakatime](https://wakatime.com/badge/user/cb841cc0-767d-42ca-9bbe-faff487068cd.svg)](https://wakatime.com/@cb841cc0-767d-42ca-9bbe-faff487068cd) [![Social](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&logo=linkedin&logoColor=FFFFFF&labelColor=000605)](https://www.linkedin.com/in/caio-rosa-552757221/)
+# Hi there ✌ I'm Caio! [![wakatime](https://wakatime.com/badge/user/cb841cc0-767d-42ca-9bbe-faff487068cd.svg)](https://wakatime.com/@cb841cc0-767d-42ca-9bbe-faff487068cd) [![Social](https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&logo=linkedin&logoColor=FFFFFF&labelColor=000605)](https://www.linkedin.com/in/caiorosa-dev/)
 <img src= "https://github-readme-stats.vercel.app/api?username=caiorosa-dev" />
 
 ## My Projects
