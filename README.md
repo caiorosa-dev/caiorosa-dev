@@ -17,7 +17,7 @@
 ```javascript
 const caioRosa = {
 	getCurrentJob() {
-		return null;
+		return { name: "Scale AI", website: "https://scale.com" };
 	},
 	languages: [Java, Javascript, Typescript, HTML, CSS],
 	architectures: [Singleton, AtomicDesign],
