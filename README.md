@@ -13,7 +13,7 @@ Notes: My GitHub is basically my playground, so expect to find much more than �
 | Project | What I built | Tech Stack |
 |--------|-------------|------------|
 | **[portfolio](https://github.com/caiorosa-dev/my-portfolio)** | A personal site showcasing my journey, skills and projects. | Next.js · TailwindCSS · TypeScript |
-| **[collab-drive-app](https://github.com/caiorosa-dev/collab-drive-app)** | A gyroscope based bluetooth controller for a car built with Arduino. | Expo · React Native · TypeScript |
+| **[collab-drive-app](https://github.com/caiorosa-dev/collab-drive-app)** (WIP) | A gyroscope based bluetooth controller for a car built with Arduino. | Expo · React Native · TypeScript |
 | **[pet-book](https://github.com/caiorosa-dev/pet-book)** | Social network platform for helping people that lost or found pets. | React · NestJS · TypeScript |
 | **[fit-track](https://github.com/caiorosa-dev/fit-track)** | Fitness tracking application designed to help users centralize and monitor their workout information. | React · NestJS · TypeScript |
 | **[forge-plus](https://github.com/caiorosa-dev/forge-plus)** | A Minecraft modpack manager desktop app built for me and my friends. | Electron · React · TypeScript · TailwindCSS |
