@@ -4,7 +4,9 @@
 
 I’m a Full-Stack Developer and Product Builder with over 5 years of experience. I design and deliver digital products that combine technology, design, and real-world impact, from ideation and architecture to UI/UX and deployment. I build SaaS platforms, web applications, and desktop tools that solve concrete problems for users.
 
-I’m currently studying Computer Science and continuously expanding my skills in engineering, product design, and system architecture. My GitHub is basically my playground, so expect to find much more than “just web dev”: experiments, game dev, random prototypes, questionable ideas that became good projects, and good ideas that maybe should have stayed on the whiteboard.
+I’m currently studying Computer Science and continuously expanding my skills in engineering, product design, and system architecture. 
+
+Notes: My GitHub is basically my playground, so expect to find much more than “just web dev”: experiments, game dev, random prototypes, questionable ideas that became good projects, and good ideas that maybe should have stayed on the whiteboard.
 
 ## Featured Projects
 
